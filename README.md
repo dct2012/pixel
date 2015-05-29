@@ -23,5 +23,6 @@ volume you can hear. Also there's not a automatic switch to headphones when plug
 I had a issue where grub wouldn't display it's menu and possibly not even boot (can't remember). But to fix that I had to add the following to 
 /etc/grub/default GRUB_GFXMODE=2560X1700
 
-
+**Coreboot**
+I would like to make my own coreboot image to get rid of the ugly screen, but it may be too dangerous.
 
