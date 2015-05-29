@@ -7,7 +7,7 @@ This repo holds all the stuff I used to install Gentoo on my Chromebook Pixel 2.
     * ucm alsa confs
 
 **Kernel**
-At the moment I'm using ChromiumOS's chromeos-3.14 kernel. I've added bfs, uksm, and greysky's gcc optimization pathes. There's a issue with
+At the moment I'm using ChromiumOS's chromeos-3.14 kernel. I've added bfs, uksm, and graysky2's gcc optimization pathes. There's a issue with
 the backlight where it turns off when switching to a tty from X or leaving X. I've made a change to where it will turn back on, but I would like 
 to have it never turn off during the switch. I also will be poking around more with the audio, most likely bdw-rt5677.
 
